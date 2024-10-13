@@ -30,5 +30,5 @@ The application consists of three main components:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/tcp-client-server.git
-cd tcp-client-server
+git clone https://github.com/your-username/tcp-server.git
+cd tcp-server
